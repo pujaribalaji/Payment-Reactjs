@@ -35,6 +35,10 @@ body {
   line-height: 80px;
   letter-spacing: -0.64px;
 }
+.sp1{
+
+  text-decoration: line-through  rgba(255, 0, 0, 1) 7px  ;
+}
 .p3 {
   color: #fff;
   font-family: Raleway;

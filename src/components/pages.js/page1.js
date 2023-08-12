@@ -50,7 +50,7 @@ const Page1 = () => {
           <div className="container1">
             <div className="p1">Access curated courses worth</div>
             <div className="p2">
-              ₹ 18,500<span className="p3">at just</span>
+             <span className="sp1">₹ 18,500</span> <span className="p3">at just</span>
               <span className="p4">₹ 99</span>
               <span className="p5">per year!</span>
             </div>
