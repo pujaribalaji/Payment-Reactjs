@@ -69,7 +69,7 @@ const Page1 = () => {
             <div className="di3">
               <img className="im2" src={img3} alt="Img3"></img>
               <div className="p10">
-                <span className="p11">Exclus ive</span> webinar access
+                <span className="p11">Exclusive</span> webinar access
               </div>
             </div>
             <div className="di4">
